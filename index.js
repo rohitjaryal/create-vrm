@@ -20,7 +20,7 @@ const answers=[];
 
 prompt(questions,answers)
     .then((answers) => {
-        shell.exec(`sh bin.sh ${answers["project-name"]}`)
+        shell.exec(`sh ./bin.sh ${answers["project-name"]}`)
     })
     .catch((error) => {
         if (error.isTtyError) {
