@@ -1,0 +1,13 @@
+{
+  "name": "create-vrm",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./index.js",
+  "bin": {
+    "create-vrm": "./index.js"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "shelljs": "^0.8.5"
+  }
+}
