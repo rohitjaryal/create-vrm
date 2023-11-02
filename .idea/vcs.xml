@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="" />
+    <mapping directory="$PROJECT_DIR$/nuni/desejo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zz/desejo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zzaq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zzaq/desejo" vcs="Git" />
   </component>
 </project>
