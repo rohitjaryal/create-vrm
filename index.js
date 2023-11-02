@@ -32,7 +32,7 @@ prompt(questions,answers)
             shell.cp("-r","./scaffold-vrm/.",`../${PROJECT_NAME}/`);
             shell.rm("-rf","./scaffold-vrm/");
             shell.rm("-rf",".git");
-            console.info(`Finished setting up ${PROJECT_NAME}`)
+            console.info(`Finished setting up ${PROJECT_NAME}. Now please cd ${PROJECT_NAME} and open project through your favorite IDE. `)
         });
 
     })
